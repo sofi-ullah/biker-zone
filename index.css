@@ -4,3 +4,8 @@
 .ster-width{
     width: 20px;
 }
+.ster-icons{
+    width: 20px;
+    display: inline-block;
+    margin: 10px;
+}
